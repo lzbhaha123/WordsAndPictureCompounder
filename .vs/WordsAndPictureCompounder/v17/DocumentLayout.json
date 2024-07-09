@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\",
+  "WorkspaceRootPath": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{888F3E95-4544-40CD-B253-9932305B20F1}|WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj|c:\\users\\zibol\\documents\\wordsandpicturecompounder\\wordsandpicturecompounder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{888F3E95-4544-40CD-B253-9932305B20F1}|WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj|c:\\users\\lzban\\development\\github_demoes\\wordsandpicturecompounder\\wordsandpicturecompounder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888F3E95-4544-40CD-B253-9932305B20F1}|WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj|solutionrelative:wordsandpicturecompounder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -40,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\Program.cs",
               "RelativeDocumentMoniker": "WordsAndPictureCompounder\\Program.cs",
-              "ToolTip": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\Program.cs",
+              "ToolTip": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\Program.cs",
               "RelativeToolTip": "WordsAndPictureCompounder\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T02:15:59.549Z",
               "EditorCaption": ""

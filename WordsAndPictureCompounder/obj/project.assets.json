@@ -128,24 +128,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zibol\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\lzban\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj",
+      "projectUniqueName": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj",
       "projectName": "WordsAndPictureCompounder",
-      "projectPath": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj",
-      "packagesPath": "C:\\Users\\zibol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\obj\\",
+      "projectPath": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj",
+      "packagesPath": "C:\\Users\\lzban\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zibol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\lzban\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -197,7 +192,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

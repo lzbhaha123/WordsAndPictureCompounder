@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordsAndPictureCompounder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50a686be0456759f5d97383a46a0bac256c66029")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordsAndPictureCompounder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordsAndPictureCompounder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

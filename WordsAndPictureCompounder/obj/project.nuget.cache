@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIWBBhfaSqgHeVGI8AmUVPIeBSo7XLn716iYWqw3aWdjumLM7we9K9CqnGXmpiphlCxZRkZJEk1ImvK2DOSgGQ==",
+  "dgSpecHash": "agglhQhEOLepoXhbqn4WSRHxmLR1uLXe/j8SWaWxnnwbAJUMA9XTfosQV/zZ0pN+55vLcDOTLj/FswFnlCuUxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zibol\\Documents\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj",
+  "projectFilePath": "C:\\Users\\lzban\\Development\\github_demoes\\WordsAndPictureCompounder\\WordsAndPictureCompounder\\WordsAndPictureCompounder.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zibol\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
-    "C:\\Users\\zibol\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+    "C:\\Users\\lzban\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\lzban\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }
