@@ -7,4 +7,8 @@
 2. Using the Save() method in Bitmap class to save the modified pictures.
 
 ---
-
+**Usage:**
+1. Copy a image file to the directory where the WordsAndPictureCompounder.exe based on
+2. To run WordsAndPictureCompounder.exe, then, to enter the image name and the words you want to show on the image.
+![caption](ss1.png)
+![caption](ss2.png)
